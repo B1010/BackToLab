@@ -21,15 +21,15 @@ snd_updateaudiocache
 
 Гипотетически, запуск игры возможен в Linux, если в папку с игрой расположить исполняемый файл portal2 для Linux. Дальнейший запуск аналогичен выше описанным bat файлам
 ## Скачивание
-Объем игры 1,33ГБ (1 429 346 583 байт)
+Объем игры 1,33ГБ (1 429 344 798 байт)
 
-CRC32: 8E59F3EC
+CRC32: FAED68D5
 
-MD5: 964F15CCB16C5B74A56BA7510F764C14
+MD5: A710CA821F8F798FFA0D422C44967FBB
 
-SHA-1: CD6658CFA181CB66EAD988890375CDD36DC4CF62
+SHA-1: 9D9A303EB41DB9F7EBD5D97298619ED121E643D9
 
-https://mega.nz/#!et0GkagK!z-25i3ROrqD6qm11htimCRTfWok5NAvJv518_E2w2XQ
+https://cloud.mail.ru/public/3dsB/2khRwsYW2
 ## Установка
 Распакуйте содержимое архива в папку Steam\steamapps\common\
 Проверьте, что игра Portal 2 установлена в Steam и доступна для Вашего аккаунта.
